@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "87966495142",
+    "firebase_url": "https://reminder-1614.firebaseio.com",
+    "project_id": "reminder-1614",
+    "storage_bucket": "reminder-1614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87966495142:android:228ad4caad407c8b65df67",
+        "android_client_info": {
+          "package_name": "com.example.reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87966495142-2nonqv1gi3d1umqtd8rj4ai8rv5ab9jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-JhItW_1CX-xdaoNQ2Jebw4X6kU18DmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87966495142-2nonqv1gi3d1umqtd8rj4ai8rv5ab9jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

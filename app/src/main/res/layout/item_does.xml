@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="#FFF"
+    android:orientation="horizontal"
+    android:layout_marginBottom="20dp"
+    android:layout_height="100dp">
+
+    <LinearLayout
+        android:layout_width="220dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="16dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/titledoes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="19dp"
+            android:text="@string/loki"
+            android:textColor="#000C5D"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/descdoes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/this_many_days_left"
+            android:textColor="#ADADAD"
+            android:textSize="18sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="45dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/datedoes"
+            android:text="@string/tomorrow"
+            android:textColor="#F63EA5"
+            android:textSize="18sp"
+            android:layout_marginTop="8dp"
+             />
+    </LinearLayout>
+</LinearLayout>
