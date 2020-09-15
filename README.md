@@ -4,7 +4,7 @@
 check how many days have passed since purchasing the product.
 
 
-## Video Walkthrough
+## App Layout
 
 Here's a walkthrough of implemented user stories:
 
